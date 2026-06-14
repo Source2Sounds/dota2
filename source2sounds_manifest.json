@@ -1,0 +1,40 @@
+{
+  "cli": "Source2Viewer-CLI",
+  "collision_policy": "suffix",
+  "game": {
+    "description": "Dota 2 Sound Files",
+    "install_names": [
+      "dota 2 beta"
+    ],
+    "slug": "dota2",
+    "title": "Dota 2"
+  },
+  "generated_at": "2026-06-14T01:25:22.542747+00:00",
+  "include_maps": true,
+  "install": {
+    "directory": "dota 2 beta",
+    "steam_common_folder": "<local Steam common folder>"
+  },
+  "primary_only": true,
+  "totals": {
+    "collisions": 0,
+    "duplicates": 0,
+    "written": 99473
+  },
+  "vpks": [
+    {
+      "collisions": 0,
+      "duplicates": 0,
+      "path": "game/core/pak01_dir.vpk",
+      "returncode": 0,
+      "written": 65
+    },
+    {
+      "collisions": 0,
+      "duplicates": 0,
+      "path": "game/dota/pak01_dir.vpk",
+      "returncode": 0,
+      "written": 99408
+    }
+  ]
+}
